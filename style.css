@@ -1,0 +1,70 @@
+.container { 
+	margin: 0 auto; 
+	padding: 0 10px; 
+	width: 100%;
+	text-align: left; 
+	overflow: hidden; 
+}
+.row { 
+	width: 100%; 
+	overflow: hidden; 
+	margin: 0 0 1em 0; 
+	display: block; 
+	overflow: hidden; 
+}
+.col1, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12  { 
+	float: left; 
+	margin: 0 20px 0 0; 
+	overflow: hidden; 
+}
+.col1  { 
+	width: 8.33%; 
+}
+.col2  { 
+	width: 16.66%; 
+}
+.col3  { 
+	width: 25.32%; 
+}
+.col4  { 
+	width: 33.55%; 
+}
+.col5  { 
+	width: 41.9%; 
+}
+.col6  { 
+	width: 50.33%; 
+}
+.col7  { 
+	width: 58.64%; 
+}
+.col8  { 
+	width: 66.97%; 
+}
+.col9  { 
+	width: 75.3%; 
+}
+.col10 { 
+	width: 83.63%; 
+}
+.col11 { 
+	width: 91.96%; 
+}
+.col12 { 
+	width: 100%; 
+	margin: 0; 
+}
+.img-responsive {
+	max-width: 50%;
+	display: block;
+	margin: auto;
+}
+.img-profile {
+	border-radius: 100%
+}
+h1 {
+	text-align: center;
+}
+span, h2 {
+	color: orange;
+}
